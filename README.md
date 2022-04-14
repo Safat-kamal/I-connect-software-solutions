@@ -46,6 +46,11 @@ It is multi page landing site about I-connect software solutions,which tells abo
 ![](https://github.com/Safat-kamal/Public-Docs/blob/master/Images/Web%20capture_14-4-2022_154640_i-connectsolution.com.jpeg?raw=true)
 
 
+## Run Locally
+
+Checkout at given url: https://i-connectsolution.com/
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at kamalashar54@gmail.com
